@@ -1,7 +1,6 @@
 # Freight Rate Prediction
 
-A machine learning pipeline that predicts freight load rates (`posted_rate`) from load, route, and market features, built for the Machine Learning Engineer take-home assessment.
-
+A machine learning pipeline that predicts freight load rates (posted_rate) from load, route, and market features, built for the Machine Learning Engineer take-home assessment.
 The model is a scikit-learn `HistGradientBoostingRegressor` trained on 48,000 labeled loads, validated with a chronological (time-based) holdout, and used to generate predictions for 12,000 unlabeled loads plus a fixed 31-day December scenario chart.
 
 ## Results
