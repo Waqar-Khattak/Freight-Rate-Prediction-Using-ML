@@ -72,12 +72,3 @@ pandas>=2.0,<3
 numpy>=1.26,<3
 scikit-learn>=1.4,<2
 matplotlib>=3.8,<4
-```
-
-## Deliverables
-
-- ✅ `validation_predictions.csv` — 12,000 rows, `load_id,predicted_rate`
-- ✅ `Freight_Rate_ML_Assessment_Report.docx` — validation approach, data split, and `candidate_december.png`
-- ✅ Loom walkthrough — data findings, data-quality handling, model reasoning, validation approach, and code walkthrough (link below)
-
-**Loom video:** _[add link here]_
